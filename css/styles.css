@@ -294,7 +294,7 @@ img{
 }
 
 .social-media:hover,
-.social-media:active{
+.social-media:focus{
     background-color: #404bbf;
 }
 
@@ -386,7 +386,7 @@ img{
 }
 
 .customers-box:hover,
-.customers-box:active{
+.customers-box:focus{
     border-color: #404bbf;
     color: #404bbf;
 }
@@ -402,6 +402,7 @@ img{
     display: flex;
     align-items: baseline;
 }
+
 
 .footer{
     margin-right: 120px;
@@ -419,6 +420,7 @@ img{
 .media{
     display: flex;
     gap:16px;
+    list-style: none;
 }
 
 .footer-social{
