@@ -294,7 +294,7 @@ img{
 }
 
 .social-media:hover,
-.social-media:focus{
+.social-media:active{
     background-color: #404bbf;
 }
 
@@ -323,7 +323,7 @@ img{
     }
     
     .filter-button:hover,
-    .filter-button:focus{
+    .filter-button:active{
         background-color:#404BBF;
         color: #FFFFFF;
         text-align: center;
@@ -386,7 +386,7 @@ img{
 }
 
 .customers-box:hover,
-.customers-box:focus{
+.customers-box:active{
     border-color: #404bbf;
     color: #404bbf;
 }
