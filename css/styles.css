@@ -19,7 +19,7 @@ img{
 
 
 .page-header{
-    border-bottom: 1px solid #e7e9fc;
+    outline: 1px solid #e7e9fc;
 }
 
 .container{
@@ -95,7 +95,7 @@ img{
     
     .address-design{
         font-style: normal;
-        padding: 27px 0;
+        padding: 24px 0;
     }
     
     .contact{
@@ -337,7 +337,6 @@ img{
         display: flex;
         justify-content: center;
         gap: 24px;
-        margin-bottom: 72px;
     }
 
     .list-photos{
@@ -355,7 +354,6 @@ img{
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none; 
-    margin-bottom: 8px;
 }
 
     .menu-section{
@@ -459,7 +457,7 @@ img{
         color: #F4F4FD;
         letter-spacing: 0.02em;
         line-height: 1.5;
-        max-width: 264px;
+        width: 264px;
     }
 
     .footer-logo{
