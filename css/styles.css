@@ -262,7 +262,6 @@ img{
 
 .social-icon{
     display: flex;
-    gap: 24px;
     justify-content: center;
     margin-top: 8px;
 }
@@ -333,7 +332,6 @@ img{
         display: flex;
         justify-content: center;
         gap: 24px;
-        margin-bottom: 72px;
     }
 
     .list-photos{
